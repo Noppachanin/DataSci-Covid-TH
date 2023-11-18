@@ -14,4 +14,4 @@ The dataset is time-series of cases, so we perform data cleaning and case predic
 - SIR model with curve-fitting to forecast new cases
 
 # Plot
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Noppachanin/DataSci-Covid-TH/blob/main/All_SIR.png)https://github.com/Noppachanin/DataSci-Covid-TH/blob/main/All_SIR.png)
+![alt text](https://github.com/Noppachanin/DataSci-Covid-TH/blob/main/All_SIR.png)
