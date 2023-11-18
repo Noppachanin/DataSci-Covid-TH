@@ -8,3 +8,10 @@ The dataset is time-series of cases, so we perform data cleaning and case predic
 - We show that LSTM can be used to predict the increment of covid-19 cases under specific social-distancing policies
 - LSTM model faiiled to accurately predict the total cases as there is the new high numbers of cases with respect to the data in training set
 - We provide a policy guideline using Recovery and cases forecasting to predict bed reservation period to ensure that there will be an available bed for a new patient.
+
+# Methods
+- LSTM for time-series forecasting
+- SIR model with curve-fitting to forecast new cases
+
+# Plot
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Noppachanin/DataSci-Covid-TH/blob/main/All_SIR.png)https://github.com/Noppachanin/DataSci-Covid-TH/blob/main/All_SIR.png)
